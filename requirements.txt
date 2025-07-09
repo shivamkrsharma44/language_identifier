@@ -1,0 +1,8 @@
+# Language Identifier CLI - requirements
+
+# Python version:
+#   Python >= 3.9
+
+
+# External dependencies:
+#   None (uses standard library only)
