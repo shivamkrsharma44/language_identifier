@@ -20,7 +20,7 @@ Cavnar, W. B., & Trenkle, J. M. (1994). "N-gram-based text categorization." Proc
 - **combined**: Normalized combination of vector and rank distances.
 
 ## Supported Languages
-- English, French, German, Italian, Spanish (default dataset).
+- English, French, German, Italian, Spanish.
 
 ## Assumptions
 - All text in a single input is assumed to be in one language.
